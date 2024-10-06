@@ -132,6 +132,7 @@ body {
     max-width: 200px;
     height: auto;
     margin-right: 25px; 
+    float: right;
   }
   
   textarea {
